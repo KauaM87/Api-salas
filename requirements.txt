@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+httpx
+pydantic
+python-multipart
+python-dotenv
+pillow
+ultralytics
+opencv-python-headless
+numpy
