@@ -1,0 +1,23 @@
+# Web framework
+fastapi
+uvicorn[standard]==0.34.3
+
+# HTTP client assíncrono
+httpx==0.28.1
+
+# Validação de dados
+pydantic>=2.12.0
+
+# Upload de arquivos
+python-multipart==0.0.20
+
+# Variáveis de ambiente
+python-dotenv==1.1.0
+
+# Processamento de imagem — versões com wheel pré-compilado para Windows
+pillow
+opencv-python-headless==4.11.0.86
+numpy>=2.0.0
+
+# YOLO — torch com CUDA é instalado separadamente (ver README)
+ultralytics==8.3.145
